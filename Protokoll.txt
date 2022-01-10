@@ -1,0 +1,13 @@
+HandIn of Larissa Goldsteiner
+
+Git-URL: https://github.com/larissagold/monstercardgame
+Spent time: 63 hours
+
+I used the rest server from the moodle and modified it to have my new endpoints. i tried to do my database with autowire but 
+failed after about 4 hours of trying. I then choose to use for the Cards a Class and for the Stack another class that uses the Cards Class.
+So each object represents a Card with the name, damage, element type and if its a spell or not. Element Type is a Enum with all the different kind of elements. 
+
+As the frontend is not the subject of the project i dont have one, i only used the curl integration tests for my tests. So the curl tests also run threw flawlessly.
+Only issue is that with the provided script the two battle curls are synchronous but one needs to be in the background for it to work, as both get the battle log as result from the call.
+
+I learned how to use a database, as well as using json and a rest server. So i think this project overall helped my educational career.

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c9263934-60f7-43ea-a6aa-a63ad27f0f50": {
+      "ProjectGuid": "c9263934-60f7-43ea-a6aa-a63ad27f0f50",
+      "DisplayName": "MTCG",
+      "ColorIndex": 0
+    },
+    "59922236-6438-4bdf-a02d-7ff82983618a": {
+      "ProjectGuid": "59922236-6438-4bdf-a02d-7ff82983618a",
+      "DisplayName": "WebService-Lib",
+      "ColorIndex": 1
+    },
+    "9031b5fe-3922-47ed-b877-582aa5d6fe3f": {
+      "ProjectGuid": "9031b5fe-3922-47ed-b877-582aa5d6fe3f",
+      "DisplayName": "WebService-Test",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Sonstige Dateien",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
